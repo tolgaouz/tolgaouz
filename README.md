@@ -4,5 +4,5 @@
 ## About Me
 - 🔭 I’m currently working on: React. Mastering my skills to create cleaner and more efficient front-end codebases.
 - 🌱 I’m currently learning: Kubernetes!
-- 🤔 What I want to learn next: Improving my React game with Epic React.
+- 🤔 What I want to learn next: [Astro](https://astro.build/) - Can't turn my eye away when I see the word `fast`!
 - 📫 How to reach me: hello@tolgaoguz.dev
